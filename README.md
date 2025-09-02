@@ -18,25 +18,37 @@ Here, you’ll find **Jupyter Notebooks** organized by topics with clean explana
 topicNumber_topicName.ipynb
 ```
 
-✅ Example:  
-- `06_function.ipynb`  
-- `07_oops.ipynb`  
-- `08_numpy_array.ipynb`  
+✅ Example:
+- `09_loops.ipynb`  
+- `10_function.ipynb`  
+- `11_Oops.ipynb`  
 
 ---
 
 ## 🛠️ Learning Roadmap
 
-| Status | Topic # | Topic Name          | File Name               |
-|--------|---------|---------------------|-------------------------|
-| ✅     | 06      | Functions           | `06_function.ipynb`     |
-| ✅     | 07      | OOPs                | `07_oops.ipynb`         |
-| ✅     | 08      | NumPy Arrays        | `08_numpy_array.ipynb`  |
-| 🚧     | 09      | Searching & Sorting | `09_sorting.ipynb`      |
-| 🔜     | 10      | Linked List         | `10_linkedlist.ipynb`   |
-| 🔜     | 11      | Stack & Queue       | `11_stack_queue.ipynb`  |
-| 🔜     | 12      | Trees & Graphs      | `12_trees_graphs.ipynb` |
-| 🔜     | 13      | Dynamic Programming | `13_dp.ipynb`           |
+## 🛠️ Learning Roadmap  
+
+| Status | Topic # | Topic Name          | File Name                  |
+|--------|---------|---------------------|----------------------------|
+|   ✔️ | 01      | Introduction to DSA | `01_Introduction_to_DSA`   |
+|   x  | 02      | Comments in Python  | `02_Comment_in_Python`     |
+|   x  | 03      | Python Variables    | `03_Python_Variable`       |
+|   x  | 04      | Input / Output      | `04_Input-Output`          |
+|   x  | 05      | Data Types          | `05_Python_Data_Types`     |
+|   x  | 06      | Type Casting        | `06_type_casting`          |
+|   x  | 07      | Operators           | `07_Operators`             |
+|   x  | 08      | Conditionals        | `08_Conditionals`          |
+|   x  | 09      | Loops               | `09_Loops`                 |
+|   x  | 10      | Functions           | `10_Function`              |
+|   x  | 11      | OOPs Concepts       | `11_OOPS_Consept`          |
+|   x  | 12      | NumPy Arrays        | `12_numpy_array.ipynb`     |
+|   x  | 13      | Searching & Sorting | `13_sorting.ipynb`         |
+|   x  | 14      | Linked List         | `14_linkedlist.ipynb`      |
+|   x  | 15      | Stack & Queue       | `15_stack_queue.ipynb`     |
+|   x  | 16      | Trees & Graphs      | `16_trees_graphs.ipynb`    |
+|   x  | 17      | Dynamic Programming | `17_dp.ipynb`              |
+
 
 ---
 
